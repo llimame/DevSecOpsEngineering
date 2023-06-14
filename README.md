@@ -36,6 +36,7 @@ Este curso foi projetado para aqueles que estão iniciando no mundo do DevOps ou
     *   [Cluster EKS]
     *   [Criando Node Groups]
     *   [Conectando no Cluster]
+    *   
 *   [Kubernetes]
     
 *   [GitOps]
