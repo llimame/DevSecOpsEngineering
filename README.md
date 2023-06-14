@@ -21,4 +21,6 @@
         *   [Análise de Segurança da Infra com Checkov](#analise-de-seguranca-com-checkov)
 *   [Projeto EKS com Terraform]
       
-
+*   [Introdução ao GitOps]
+  
+*   []
