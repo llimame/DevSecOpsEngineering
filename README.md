@@ -4,7 +4,7 @@ DevOps à muito tempo é utilizado na grande maioria das empresas, e quando bem 
 
 Mas e você pequeno gafanhoto, que está iniciando agora no mundo do DevOps, já pensou em iniciar seus projetos pensando na segurança? garantindo seu futuro ou ainda a saúde de sua empresa?
 
-Este curso foi projetado para aqueles que estão iniciando no mundo do DevOps ou DevSecOps, ajudando a entender e resolver os principais problemas do dia a dia
+Este curso foi projetado para aqueles que estão iniciando no mundo do DevOps ou DevSecOps, ajudando a entender e resolver os principais problemas do dia a dia através das ferramentas mais utilizadas no mercado.
 
 *   [Introdução ](#introduction)
     *   [Sobre o Treinamento](#sobre-o-treinamento)
