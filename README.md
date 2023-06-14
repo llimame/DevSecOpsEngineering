@@ -45,4 +45,8 @@ Este curso foi projetado para aqueles que estão iniciando no mundo do DevOps ou
     *    [Fluent Bit]
     *    [Cluster Auto Scaler]
     *    [CSI Driver]
+ 
+*   [CI/CD]
+*   
+*   [Observabilidade]
 
