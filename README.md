@@ -6,17 +6,19 @@ Mas e você pequeno gafanhoto, que está iniciando agora no mundo do DevOps, já
 
 Este curso foi projetado para aqueles que estão iniciando no mundo do DevOps ou DevSecOps, ajudando a entender e resolver os principais problemas do dia a dia através das ferramentas mais utilizadas no mercado.
 
-*   [Introdução ]
+*   [Introdução]
     *   [Sobre o Treinamento]
     *   [Objetivos do treinamento]
     *   [Sugestão de Conteúdo]
     *   [Pré requisitos]
+      
 *   [Introdução a Segurança na AWS]
     * [Cloudtrail]
     * [Security Hub]
     * [AWS Config]
     * [Guard Duty]
     * [Inspector]
+      
 *   [Introdução à Infraestrutura Como Código]
     *   [Introdução ao Terraform]
     *   [Gerando Credencias na AWS]
@@ -25,7 +27,8 @@ Este curso foi projetado para aqueles que estão iniciando no mundo do DevOps ou
     *   [Garantindo a segurança em nosso ambiente]
         *   [Habilitando o Security Hub]
         *   [Análise de Segurança da Infra com Checkov]
-    *   [Terraform Modules]     
+    *   [Terraform Modules]
+      
 *   [Projeto EKS com Terraform]
     *   [Introdução ao EKS] 
     *   [Preparando as Dependências]
@@ -36,7 +39,11 @@ Este curso foi projetado para aqueles que estão iniciando no mundo do DevOps ou
 *   [Kubernetes]
     
 *   [GitOps]
-
+    * [Introdução ao GitOps]
+    * [Conhecendo o ArgoCD]
+    * [Instalando o ArgoCD]
+    * [Primeiro Deploy]
+      
 *   [Ferramentas Kubernetes]
     *    [Nginx Ingress]
     *    [LB Controller]
