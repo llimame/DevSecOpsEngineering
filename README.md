@@ -23,4 +23,12 @@
       
 *   [Introdução ao GitOps]
   
-*   []
+*   [Automatizando nosso Cluster Kubernetes]
+    *    [Nginx Ingress]
+    *    [LB Controller]
+    *    [External Secrets]
+    *    [External DNS]
+    *    [Fluent Bit]
+    *    [Cluster Auto Scaler]
+    *    [CSI Driver]
+
