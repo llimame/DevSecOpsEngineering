@@ -47,6 +47,6 @@ Este curso foi projetado para aqueles que estão iniciando no mundo do DevOps ou
     *    [CSI Driver]
  
 *   [CI/CD]
-*   
+  
 *   [Observabilidade]
 
