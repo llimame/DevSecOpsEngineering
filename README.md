@@ -1,195 +1,127 @@
-# Book Dash, DD Month YYYY - Day 1 <-- create one for each day
+# Book Dash, DD Month YYYY - Pre-Book Dash Onboarding Sessions
 
 ###### tags: `bookdash YYYY` `month` `event`
 
 ==If you are new to HackMD, please see this short guide: [https://hackmd.io/@turingway/hackmd-guide](https://hackmd.io/@turingway/hackmd-guide)==
 
 :::info
-- **Location:** Online/in-person
-- **Date:** DD Month YYYY
-- **Document with all links:** (provide link to the index page) <--- update this
+- **Date:** (DD Month YYYY)
+    - ==Call 1: 9:00 - 10:00 London time ([in your time zone](https://arewemeetingyet.com/London/YYYY-MM-DD/09:00))==
+    - ==Call 2: 17:00 - 18:00 London time ([in your time zone](https://arewemeetingyet.com/London/YYYY-MM-DD/17:00))==
+- **Hosts:** (Add names)
+- **Join Zoom Meeting:** (add links)
 :::
 
-**Development sessions**
-
-Cuckoo clock: https://cuckoo.team/tw-bookdash
-
-Each day we will hold 3 development sessions and an one themed discussion/networking session where you can interact with others, continue your disucssion outside development session or take a break as it's most sustainable and helpful for your participation.
-
-Each development session will follow the Pomodoro technique that we also use for our coworking calls. We will use [browser-based shared (cuckoo) clock](https://cuckoo.team/tw-bookdash) to manage our time ([Coworking chapter in The Turing Way](https://the-turing-way.netlify.app/community-handbook/coworking/coworking-motivation.html))
-
-All time provided in London Time (UTC+1). Please use this link to convert in your time zone: convert time: https://arewemeetingyet.com/london/YYYY-MM-DD/hh:mm (update DD: date, hh:mm: hours:minutes)
-
-**Use the Pomodoro sessions for comfort breaks as needed**
+**Table of content**
 
 [TOC]
 
-## Introduction to the event
-
-- Intro to Turing Way book dash day :books:
-- GitHub resources and managing your contributions
-- An onboarding breakout room for new members and people who need refresher in GitHub
-- Feel free to propose breakout rooms if you have already identified your groups (topic, language, discussions)
-- Please use this HackMD as extensively as needed
-
-## Groupings for breakout rooms based on the topics of interest:
-
-> Feel free to move between the breakout rooms! 
-
-**Room 1 (Reproducibility):** (add name)
-**Room 2 (Ethics):** (add name)
-**Room 3 (Communication):** (add name)
-**Room 4 (Project Design):** (add name)
-**Room 5 (Infrastructure):** (add name)
-**Room 6 (Individual Room)**
-
-:one: Day 1: DD Month YYYY
+:sunflower: Welcome!  
 ---
 
-### :wave: Sign up
+This call is scheduled for the invited participants of the next Book Dash event hosted by The Turing Way taking place from 17 to 21 May 2021 online.
 
-*Please add your name to this list, but remember that this is a public document, so use a pseudonym if you'd prefer, or just feel free to leave your name off.*
+Please note that everyone who participates in _The Turing Way_ project is expected to abide by our [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md).
 
-*Name (pronouns - optional) / Institute / Twitter, GitHub / icebreaker: What song/music/artist/album puts you in a good mood!* :musical_score: 
+Please see more details on [the project](https://github.com/alan-turing-institute/the-turing-way), [Book Dash](https://the-turing-way.netlify.app/community-handbook/bookdash.html) and logistics details (shared by email before the event) for the upcoming book dash below the notes.
 
-* 
-* 
-* 
-* 
+### Agenda
 
-### :books: Turing Way and Book Dash
+- Introductions (get to know each other): 10 minutes
+- About the Book Dash ([logistics, accessibility support, socials](https://hackmd.io/@turingway/bookdash-may2021-index)): 10 minutes
+- [SMART goal setting exercise](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals) in breakout (or quiet writing): 15 minutes
+- A Scriberia artist will be there!! - would you like to get some illustration? (you should [check this out(https://zenodo.org/record/3332808))
+- Report out and general discussion: 30 minutes
+- Wrap up and final words: 5 minutes
 
-* Intro to The Turing Way & the Book Dash: (Link to intro slides) <---
-* Predash drop-in calls: (Link to the shared notes) <---
-* Project repository on GitHub: https://github.com/alan-turing-institute/the-turing-way
-* Book is hosted online at: https://the-turing-way.netlify.com
-* Join Slack channel: An email will be sent to you
-* Join the [mailing list to receive newsletter](https://tinyletter.com/TuringWay)
-* Follow on Twitter: [@turingway](https://twitter.com/turingway)
+:wave: Introductions and check-ins
+---
 
-### :busts_in_silhouette::speech_balloon: Planning your contributions: breakout (10 minutes)
+### Call 1: Sign up below
 
-*In groups of 3 explore and discuss about what you'd like to see in this book, or how you can contribute.* :sparkles: :space_invader: :rocket: :star2:
-
-You can use your SMART goals to guide your discussions <-- provide link to the onboarding call's notes
-
-*List what you are working on below! Include your GitHub username, one sentence description and links to relevant issues and pull requests.*
-
-### :dart: Your goals for the book dash <--- used for only day-1
-
-_Share your ideas for contributions and collaboration during the book dash_
-
-*Name: goals/plans/ideas*
-* 
-* 
-* 
-* 
-* 
-
-
-### Names are added as per your registration form
-
-* Check here if you not sure which session you planned to join (you can change sessions too!): (provide link to the index page) <--- update this
-* Zoom will stay open during the breaks for networking
-
-#### Development session (time block 1)
-
-| Time          |               Suggested agenda |
-| ------------- | ------------------------------:|
-| 07:45 - 08:00 |  Zoom room opens, coffee chats |
-| 08:00 - 08:15 |            Kick-off, check-ins |
-| 08:15 - 09:05 |        Onboarding and resource - preparing for the Book Dash |
-| 09:05 - 09:15 |               Quick report out |
-| 09:15 - 09:50 |       Second Pomodoro :tomato: |
-| 09:50 - 10:00 |               Quick report out |
-| 10:00 - 10:30 |    Troubleshoot, mentored-work |
-
-*Notes from Development session (time block 1)*
-
-**Goal-setting**
-* 
-* 
-* 
-* 
-* 
-
-*Report Out*
-
-* 
-* 
-* 
-* 
-
-#### Themed Discussion and networking Session (time block 2) <-- this block may change the order for different days
-
-==11:00 - 13:30: Themed Discussion and Networking==: Visual communication and illustrations
-
-| Time          |                 Suggested agenda |
-| ------------- | --------------------------------:|
-| 11:00 - 11:30 |       Introduction, coffee chats |
-| 11:30 - 12:20 | Discussion+breakout: Visualisations in the Turing Way |
-| 12:20 - 12:30 |             Wrap-up, coffee chat |
-
-*Themes for discussion session is to be confirmed*
-
- *Notes and reflection from discussion and networking session*
-
-**Prompts for reflections and discussions**
-* 
+*Name (optional: pronouns) - "icebreaker: your favorite collaborative project (beside the _Turing Way_ :sweat_smile:)"* 
 *
-
-**Notes**
+*
+*
 *
 *
 
-#### Development session (time block 3)
+### Call 2: Sign up below
 
-| Time          |            Suggested agenda |
-| ------------- | ---------------------------:|
-| 14:00 - 14:15 |         Kick-off, check-ins |
-| 14:15 - 15:05 |    Onboarding and  resource - no talk |
-| 15:05 - 15:15 |            Quick report out |
-| 15:15 - 15:50 |    Second Pomodoro :tomato: |
-| 15:50 - 16:00 |            Quick report out |
-| 16:00 - 16:30 | Troubleshoot, mentored-work | 
+*Name (optional: pronouns) - "icebreaker: your favorite collaborative project (beside the _Turing Way_ :sweat_smile:)"* 
+*
+*
+*
+*
+*
 
-*Notes from Development session (time block 3)*
+:information_source: About _The Turing Way_ and the Book Dash
+---
+<!-- Other important details discussed during the meeting can be entered here. -->
+* Detailed [Presentation](https://zenodo.org/record/3615259) about the project ([video](https://www.youtube.com/watch?v=dlycvMU45ek)) <--- update this
+* See the index HackMd: https://hackmd.io/@turingway/bookdash-may2021-index <--- update this
+* GitHub: https://github.com/alan-turing-institute/the-turing-way
+    * [Introductory materials](https://hackmd.io/@turingway/bookdash-may2021-index#GitHub-Resources) <--- update this
 
-**Goal-setting**
-* 
-* 
-* 
-* 
-* 
+:dart: Goal setting exercise: Breakout
+---
 
-*Report Out*
+We would like to help create some plans and topics they you would like to explore for your contributions in _The Turing Way_. 
+- Please note that this goal setting can relate to the suggestions made the reviewers based on your application (see your acceptance email). 
+- We will be delighted to work with you to make sure that you are excited about your contribution to the Book Dash event. 
+- These topics can be something that is either missing in the existing chapters or need to be updated in the project.
+- You personal motivation could also be to collaborate with others at the event to work on and support what they are working on
+- We also recognise - and celebrate the fact - that plans may change once you meet the other participants!
 
-* 
-* 
-* 
-* 
-#### Development session (time block 4)
 
-| Time          |               Suggested agenda |
-| ------------- | ------------------------------:|
-| 17:00 - 17:15 |            Kick-off, check-ins |
-| 17:15 - 18:05 |       Onboarding and  resource - preparing for the Book Dash |
-| 18:00 - 18:45 |       Second Pomodoro :tomato: |
-| 18:45 - 18:55 |               Quick report out |
-| 19:00 - 19:30 |    Troubleshoot, mentored-work | 
+Setting our personal goals will help us prepare better for your participation:
+- **S**pecific: They precisely spell out what you want to accomplish and usually answer the 5 Ws (Who? What? Where? When? Why?)
+- **M**easurable: They provide a specific indicator of success.
+- **A**ttainable: They are realistic.
+- **R**elevant: They are important and practical.
+- **T**ime-bound: They specify a deadline for when the goal will be met.
 
-*Notes from Development session (time block 4)*
+*We are using [this template](https://freespiritpublishingblog.com/wp-content/uploads/2015/08/setting-smart-goals.pdf) by Danielle R. Schultz (2015).*
 
-**Goal-setting**
-* 
-* 
-* 
-* 
-* 
+<!--COPY IT BELOW-->
 
-*Report Out*
+> [name=Name]
+> **S**pecific: What do I want to accomplish?:
+> **M**easurable: How will I measure my success?:
+> **A**ttainable: Can I realistically achieve this goal? What steps will I take?
+    > step 1:
+    > step 2:
+    > step 3:
+> **R**elevant: Does this goal meet a specific need?: 
+> **T**ime-bound: What is my target deadline? (potentially between 9 and 13 Nov): 
+> Goal statement:
 
-* 
-* 
-* 
-* 
+> [name=Name]
+> **S**pecific: What do I want to accomplish?:
+> **M**easurable: How will I measure my success?:
+> **A**ttainable: Can I realistically achieve this goal? What steps will I take?
+    > step 1:
+    > step 2:
+    > step 3:
+> **R**elevant: Does this goal meet a specific need?: 
+> **T**ime-bound: What is my target deadline? (potentially between 9 and 13 Nov): 
+> Goal statement:
+>
+
+## Open questions: (feel free to write them below):
+*
+*
+*
+
+##  Closing:
+
+- 
+
+### Wondering where to start?
+
+Here are a few suggestions for a good first contributions:
+
+- Review an existing chapter by suggesting a few changes in [the book](https://the-turing-way.netlify.com) and/or [repository](https://github.com/alan-turing-institute/the-turing-way).
+- Flag the unclear or duplicated information in the book by opening an [issue on the GitHub](https://github.com/alan-turing-institute/the-turing-way/issues).
+- Fix an [old issue](https://github.com/alan-turing-institute/the-turing-way/issues) or comment on the the [pull requests](https://github.com/alan-turing-institute/the-turing-way/pulls).
+- Write your personal experience of reproducible research in this [google form](https://goo.gl/forms/akFqZEIy2kxAjfZW2).
